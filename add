@@ -3,6 +3,7 @@ void main()
 {
 int a=5;
 int b=10;
+printf("Prod:\n",a*b);
 printf("Sum:\n",(a+b));
 printf("Diff:\n",(a-b));
 }
